@@ -1,3 +1,21 @@
+# Tic Tac Toe Game using React
+
+This project is a simple implementation of the classic Tic Tac Toe game using React. The game allows two players to take turns marking spaces on a 3x3 grid, aiming to get three of their symbols in a row, column, or diagonal.
+
+Features:
+
+    Interactive Gameplay:
+        Players take turns marking 'X' and 'O' on the grid.
+        Displays a winner when a player achieves three in a row, column, or diagonal.
+        Indicates a draw when no player wins.
+    History of Moves:
+        Records the history of moves and allows players to revisit previous steps.
+        Enables players to jump to any previous move in the game's history.
+    Status Display:
+        Indicates whose turn it is.
+        Declares the winner or indicates a draw when the game is over.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
